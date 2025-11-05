@@ -1,5 +1,15 @@
 # 🔒 Simulasi Data Integrity, Logging & Monitoring
 
+## Anggota Kelompok 8:
+
+- Muhammad Dzaky Ahnaf (5027231039)
+- Daffa Rajendra P. (5027231009)
+- Muhamad Arrayyan (5027231014)
+- Naufal Syafi’i H. (5027231022)
+- RM. Novian Malcolm (5027231035)
+
+---
+
 Proyek ini merupakan tugas mata kuliah **Keamanan Web dan Aplikasi** dengan fokus pada **OWASP 2021 A08 & A09**, yaitu:
 
 - **A08 – Software and Data Integrity Failures**
