@@ -50,7 +50,7 @@ Tujuan dari simulasi ini adalah **membangun sistem sederhana untuk memantau inte
 ### 1. Clone Repositori
 
 ```bash
-git clone https://github.com/yourusername/simulasi-integritas.git
+git clone https://github.com/dzakyahnaf/Simulasi-Data-Integrity-Logging-Monitoring.git
 cd simulasi-integritas
 ```
 
@@ -194,12 +194,5 @@ simulasi-integritas/
 - **Python 3.8+**
 - **Flask** (opsional untuk tampilan web)
 - **hashlib, logging, json** (library standar Python)
-
----
-
-## 👨‍💻 Author
-
-Project simulasi untuk pembelajaran **Keamanan Web & Aplikasi (OWASP A08 & A09)**
-Dibuat dengan ❤️ menggunakan Python.
 
 ---
