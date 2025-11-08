@@ -1,38 +1,46 @@
 {
   "demo mvp.mp4": {
     "hash": "76fee7473d706fb0cc68a426f30d36b9b74e0587ea098267638fa9a775d74dc6",
-    "mtime": 1760753023.793239
-  },
-  "demo.txt": {
-    "hash": "83cccf11139a1e24870a903ff9b0c2a8064e272075b673cf1814b39889af1064",
-    "mtime": 1762331923.972866
+    "mtime": 1762399116.6229854
   },
   "diagram 1.png": {
     "hash": "6a277a3aef9da88bfe80547f23de2cd27cbe1386abcbbd425f10b1bb4ce285fc",
-    "mtime": 1762258557.506925
+    "mtime": 1762399116.627141
   },
   "diagram 2.png": {
     "hash": "0afa9538f189cb2c4d3859cdc790410a9ee6905bd0c28eff6c28fdc87d7df351",
-    "mtime": 1762258325.756548
+    "mtime": 1762399116.6287074
   },
   "flag.txt": {
-    "hash": "831023f719db8484d7023178633ce79161774fd14190beb65f3b90e68a8de4d0",
-    "mtime": 1762331881.2470198
+    "hash": "a0132bd0487e889f18a50ba8bd17644fafdb37e5fcf23515b8815eb451f20c10",
+    "mtime": 1762400804.0839374
+  },
+  "halo.js": {
+    "hash": "0c1676c651e5333ef4161d963386d9fa003c2d29da4834fa18a06574e09fbfa9",
+    "mtime": 1762399787.2642586
   },
   "masterplan desa wisata baros.jpg": {
     "hash": "f70afb2057ee33b491671ba74974efe21dccaa2fd34377d402ca5a913128fb2a",
-    "mtime": 1762099986.360852
+    "mtime": 1762399116.6387725
   },
   "Nino Guidebook.pdf": {
     "hash": "719278627fe7b166057daad4347103aea32d00858eeba2e1a18890ff8bc945cc",
-    "mtime": 1761272456.355721
+    "mtime": 1762399116.3367653
   },
   "Tugas1_charter_kel4 (1).pdf": {
     "hash": "53d193a8286630f09e3313ad1e65321aaf900e03f7cb4adb58b79cd8768a5c46",
-    "mtime": 1761563869.7713888
+    "mtime": 1762399116.3367653
   },
   "Tugas2_WBS_Kel4.pdf": {
     "hash": "335df2e8ce4db47d7fc1122144ab926cae777222c90f5a2cb2b3ec1116fdc696",
-    "mtime": 1761563877.9853728
+    "mtime": 1762399116.3367653
+  },
+  "newfile.txt": {
+    "hash": "e3290c4da6ac6a830c93f951fb7ba5b5940b47aa2f01af69aff9fb034fb1559f",
+    "mtime": 1762402884.5021782
+  },
+  "newfolder\\halo.txt": {
+    "hash": "21017bace16ac262a591104ec7924e084c13e82bbab36b7bfbce61f2bacce882",
+    "mtime": 1762402547.791188
   }
 }

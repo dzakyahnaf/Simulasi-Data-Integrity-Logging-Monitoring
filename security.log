@@ -7,3 +7,115 @@
 [2025-11-05 19:50:33] INFO: File "diagram 2.png" verified OK.
 [2025-11-05 19:50:33] INFO: File "flag.txt" verified OK.
 [2025-11-05 19:50:33] INFO: File "masterplan desa wisata baros.jpg" verified OK.
+[2025-11-06 10:30:03] INFO: File "Nino Guidebook.pdf" verified OK.
+[2025-11-06 10:30:03] INFO: File "Tugas1_charter_kel4 (1).pdf" verified OK.
+[2025-11-06 10:30:03] INFO: File "Tugas2_WBS_Kel4.pdf" verified OK.
+[2025-11-06 10:30:03] INFO: File "demo mvp.mp4" verified OK.
+[2025-11-06 10:30:03] INFO: File "demo.txt" verified OK.
+[2025-11-06 10:30:03] INFO: File "diagram 1.png" verified OK.
+[2025-11-06 10:30:03] INFO: File "diagram 2.png" verified OK.
+[2025-11-06 10:30:03] INFO: File "flag.txt" verified OK.
+[2025-11-06 10:30:03] INFO: File "masterplan desa wisata baros.jpg" verified OK.
+[2025-11-06 10:30:03] ALERT: Unknown file "halo.js" detected.
+[2025-11-06 10:35:43] INFO: File "Nino Guidebook.pdf" verified OK.
+[2025-11-06 10:35:43] INFO: File "Tugas1_charter_kel4 (1).pdf" verified OK.
+[2025-11-06 10:35:43] INFO: File "Tugas2_WBS_Kel4.pdf" verified OK.
+[2025-11-06 10:35:43] INFO: File "demo mvp.mp4" verified OK.
+[2025-11-06 10:35:43] INFO: File "demo.txt" verified OK.
+[2025-11-06 10:35:43] INFO: File "diagram 1.png" verified OK.
+[2025-11-06 10:35:43] INFO: File "diagram 2.png" verified OK.
+[2025-11-06 10:35:43] WARNING: File "flag.txt" integrity failed!
+[2025-11-06 10:35:43] INFO: File "masterplan desa wisata baros.jpg" verified OK.
+[2025-11-06 10:35:43] ALERT: Unknown file "halo.js" detected.
+[2025-11-06 10:45:25] INFO: Starting full integrity scan...
+[2025-11-06 10:45:25] INFO: File "Nino Guidebook.pdf" verified OK.
+[2025-11-06 10:45:25] INFO: File "Tugas1_charter_kel4 (1).pdf" verified OK.
+[2025-11-06 10:45:25] INFO: File "Tugas2_WBS_Kel4.pdf" verified OK.
+[2025-11-06 10:45:25] INFO: File "demo mvp.mp4" verified OK.
+[2025-11-06 10:45:25] INFO: File "demo.txt" verified OK.
+[2025-11-06 10:45:25] INFO: File "diagram 1.png" verified OK.
+[2025-11-06 10:45:25] INFO: File "diagram 2.png" verified OK.
+[2025-11-06 10:45:25] WARNING: File "flag.txt" integrity failed!
+[2025-11-06 10:45:25] INFO: File "masterplan desa wisata baros.jpg" verified OK.
+[2025-11-06 10:45:25] ALERT: Unknown file "halo.js" detected.
+[2025-11-06 10:45:25] INFO: Full integrity scan completed.
+[2025-11-06 10:46:44] INFO: Detected modification: secure_files\flag.txt
+[2025-11-06 10:46:44] WARNING: File "flag.txt" integrity failed!
+[2025-11-06 10:57:03] INFO: Starting full integrity scan...
+[2025-11-06 10:57:03] INFO: File "Nino Guidebook.pdf" verified OK.
+[2025-11-06 10:57:03] INFO: File "Tugas1_charter_kel4 (1).pdf" verified OK.
+[2025-11-06 10:57:03] INFO: File "Tugas2_WBS_Kel4.pdf" verified OK.
+[2025-11-06 10:57:03] INFO: File "demo mvp.mp4" verified OK.
+[2025-11-06 10:57:03] INFO: File "demo.txt" verified OK.
+[2025-11-06 10:57:03] INFO: File "diagram 1.png" verified OK.
+[2025-11-06 10:57:03] INFO: File "diagram 2.png" verified OK.
+[2025-11-06 10:57:03] WARNING: File "flag.txt" integrity failed!
+[2025-11-06 10:57:03] INFO: File "masterplan desa wisata baros.jpg" verified OK.
+[2025-11-06 10:57:03] ALERT: Unknown file "halo.js" detected.
+[2025-11-06 10:57:03] INFO: Full integrity scan completed.
+[2025-11-06 10:57:18] INFO: Detected modification: secure_files\demo.txt
+[2025-11-06 10:57:18] INFO: Detected modification: secure_files\demo.txt
+[2025-11-06 10:57:18] WARNING: File "demo.txt" integrity failed!
+[2025-11-06 10:57:18] WARNING: File "demo.txt" integrity failed!
+[2025-11-06 11:13:15] INFO: Detected modification: secure_files\demo.txt
+[2025-11-06 11:13:15] INFO: Detected modification: secure_files\demo.txt
+[2025-11-06 11:13:15] WARNING: File "demo.txt" integrity failed!
+[2025-11-06 11:13:36] INFO: Detected deletion: secure_files\demo.txt
+[2025-11-06 11:13:36] INFO: Detected deletion: secure_files\demo.txt
+[2025-11-06 11:13:36] ALERT: File "demo.txt" missing (possibly deleted).
+[2025-11-06 11:13:36] ALERT: File "demo.txt" missing (possibly deleted).
+[2025-11-06 11:15:15] INFO: Detected new file: secure_files\newfolder\halo.txt
+[2025-11-06 11:15:15] INFO: Detected new file: secure_files\newfolder\halo.txt
+[2025-11-06 11:15:15] ALERT: Unknown file "newfolder\halo.txt" detected.
+[2025-11-06 11:15:15] ALERT: Unknown file "newfolder\halo.txt" detected.
+[2025-11-06 11:15:18] INFO: Detected modification: secure_files\newfolder\halo.txt
+[2025-11-06 11:15:18] INFO: Detected modification: secure_files\newfolder\halo.txt
+[2025-11-06 11:15:18] ALERT: Unknown file "newfolder\halo.txt" detected.
+[2025-11-06 11:15:36] INFO: Detected modification: secure_files\newfolder\halo.txt
+[2025-11-06 11:15:36] INFO: Detected modification: secure_files\newfolder\halo.txt
+[2025-11-06 11:15:36] ALERT: Unknown file "newfolder\halo.txt" detected.
+[2025-11-06 11:15:36] ALERT: Unknown file "newfolder\halo.txt" detected.
+[2025-11-06 11:15:47] INFO: Detected modification: secure_files\newfolder\halo.txt
+[2025-11-06 11:15:47] INFO: Detected modification: secure_files\newfolder\halo.txt
+[2025-11-06 11:15:47] ALERT: Unknown file "newfolder\halo.txt" detected.
+[2025-11-06 11:15:47] ALERT: Unknown file "newfolder\halo.txt" detected.
+[2025-11-06 11:16:11] INFO: Starting full integrity scan...
+[2025-11-06 11:16:11] INFO: File "Nino Guidebook.pdf" verified OK.
+[2025-11-06 11:16:11] INFO: File "Tugas1_charter_kel4 (1).pdf" verified OK.
+[2025-11-06 11:16:11] INFO: File "Tugas2_WBS_Kel4.pdf" verified OK.
+[2025-11-06 11:16:11] INFO: File "demo mvp.mp4" verified OK.
+[2025-11-06 11:16:11] INFO: File "diagram 1.png" verified OK.
+[2025-11-06 11:16:11] INFO: File "diagram 2.png" verified OK.
+[2025-11-06 11:16:11] WARNING: File "flag.txt" integrity failed!
+[2025-11-06 11:16:11] INFO: File "masterplan desa wisata baros.jpg" verified OK.
+[2025-11-06 11:16:11] ALERT: Unknown file "halo.js" detected.
+[2025-11-06 11:16:11] ALERT: Unknown file "newfolder\halo.txt" detected.
+[2025-11-06 11:16:11] ALERT: File "demo.txt" missing (possibly deleted).
+[2025-11-06 11:16:11] INFO: Full integrity scan completed.
+[2025-11-06 11:17:05] INFO: File "Nino Guidebook.pdf" verified OK.
+[2025-11-06 11:17:05] INFO: File "Tugas1_charter_kel4 (1).pdf" verified OK.
+[2025-11-06 11:17:05] INFO: File "Tugas2_WBS_Kel4.pdf" verified OK.
+[2025-11-06 11:17:05] INFO: File "demo mvp.mp4" verified OK.
+[2025-11-06 11:17:05] INFO: File "diagram 1.png" verified OK.
+[2025-11-06 11:17:05] INFO: File "diagram 2.png" verified OK.
+[2025-11-06 11:17:05] WARNING: File "flag.txt" integrity failed!
+[2025-11-06 11:17:05] INFO: File "masterplan desa wisata baros.jpg" verified OK.
+[2025-11-06 11:17:05] ALERT: Unknown file "halo.js" detected.
+[2025-11-06 11:17:05] ALERT: Unknown file "newfolder\halo.txt" detected.
+[2025-11-06 11:17:05] ALERT: File "demo.txt" missing (possibly deleted).
+[2025-11-06 11:20:29] INFO: Detected modification: secure_files\Nino Guidebook.pdf
+[2025-11-06 11:20:29] INFO: File "Nino Guidebook.pdf" verified OK.
+[2025-11-06 11:20:29] INFO: Detected modification: secure_files\Tugas1_charter_kel4 (1).pdf
+[2025-11-06 11:20:29] INFO: File "Tugas1_charter_kel4 (1).pdf" verified OK.
+[2025-11-06 11:20:29] INFO: Detected modification: secure_files\Tugas2_WBS_Kel4.pdf
+[2025-11-06 11:20:29] INFO: File "Tugas2_WBS_Kel4.pdf" verified OK.
+[2025-11-06 11:20:29] INFO: Detected modification: secure_files\demo mvp.mp4
+[2025-11-06 11:20:29] INFO: File "demo mvp.mp4" verified OK.
+[2025-11-06 11:20:29] INFO: Detected modification: secure_files\diagram 1.png
+[2025-11-06 11:20:29] INFO: File "diagram 1.png" verified OK.
+[2025-11-06 11:20:29] INFO: Detected modification: secure_files\diagram 2.png
+[2025-11-06 11:20:29] INFO: File "diagram 2.png" verified OK.
+[2025-11-06 11:20:29] INFO: Detected modification: secure_files\masterplan desa wisata baros.jpg
+[2025-11-06 11:20:29] INFO: File "masterplan desa wisata baros.jpg" verified OK.
+[2025-11-06 11:21:24] INFO: Detected new file: secure_files\newfile.txt
+[2025-11-06 11:21:24] ALERT: Unknown file "newfile.txt" detected.
