@@ -193,8 +193,6 @@ Buka di browser:
 - ✅ **Responsive Design** - Bekerja di mobile, tablet, desktop
 - ✅ **Interactive UI** - Hover effects, smooth transitions
 
-Lihat dokumentasi lengkap di [DASHBOARD_GUIDE.md](DASHBOARD_GUIDE.md)
-
 ---
 
 ## ✨ Menambahkan Verified Files (BARU!)
@@ -214,8 +212,6 @@ python add_to_baseline.py list
 # Hapus file dari baseline
 python add_to_baseline.py remove filename.txt
 ```
-
-**Panduan lengkap:** [ADD_VERIFIED_FILES_GUIDE.md](ADD_VERIFIED_FILES_GUIDE.md)
 
 ---
 
